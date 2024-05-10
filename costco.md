@@ -1,36 +1,38 @@
-<!--1-->bread\
-<!--2-->tortillas  
-<!--3-->peanuts 
-<!--2-->pecans 
-<!--1-->spag sauce 
-<!--1.5-->chick peas 
-<!--6-->PB 
-<!--6-->crackers 
-<!--6-->cereal 
-<!--6-->ramen 
-<!--6-->noodles
+<!--1-->bread<br>
+<!--2-->tortillas<br>  
+<!--3-->peanuts<br> 
+<!--2-->pecans<br> 
+<!--1-->spag sauce<br> 
+<!--1.5-->chick peas<br> 
+<!--6-->PB<br> 
+<!--6-->crackers<br> 
+<!--6-->cereal<br> 
+<!--6-->ramen<br> 
+<!--6-->noodles<br>
 ---
-<!--7-->yogurt
-<!--7-->eggs 
+<!--7-->yogurt<br>
+<!--7-->eggs<br> 
 ---
-<!--12-->diet coke 
-<!--13-->mineral water 
-<!--14-->bubbly water 
-<!--15-->TP 
-<!--16-->paper towels 
+<!--12-->diet coke<br>
+<!--13-->mineral water <br>
+<!--14-->bubbly water <br>
+<!--15-->TP <br>
+<!--16-->paper towels <br>
 ---
-<!--17-->milk
-<!--21-->milk LF 
-<!--22-->gruyere
+<!--17-->milk<br>
+<!--21-->milk LF <br>
+<!--22-->gruyere<br>
 ---
-<!--23-->guacamole 
-<!--26-->chicken thighs 
-<!--26-->chicken whole 
-<!--26-->ground beef 
+<!--23-->guacamole <br>
+<!--26-->chicken thighs <br>
+<!--26-->chicken whole <br>
+<!--26-->ground beef <br>
 ---
-<!--27-->blueberries 
-<!--28-->potatoes 
-<!--29-->onions 
-<!--30-->garlic
-<!--31-->bananas
+<!--27-->blueberries  <br>
+<!--28-->potatoes  <br>
+<!--29-->onions  <br>
+<!--30-->garlic <br>
+<!--31-->bananas <br>
 
+- [ ] unchecked
+- [x] checked
