@@ -1,11 +1,19 @@
-450 oven
+450 oven 
+
+
 
 2 c flour
+
 1 T sugar
+
 1 T baking powder
+
 1 t salt
+
 1/2 c cold butter, cut in T
+
 3/4 c buttermilk ( or milk + 1 t lemon juice, for 5 mins)
+
 
 Mix flour, sugar, baking poweder, salt
 
